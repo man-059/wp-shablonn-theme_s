@@ -1,0 +1,8 @@
+Arguments
+
+$FileName$:$ProjectFileDir$/$FileNameWithoutExtension$.css
+
+
+Output path to refresh
+
+$ProjectFileDir$/$FileNameWithoutExtension$.css:$ProjectFileDir$/$FileNameWithoutExtension$.css.map --style compressed

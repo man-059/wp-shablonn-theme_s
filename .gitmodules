@@ -1,0 +1,3 @@
+[submodule "assets/css/scss"]
+	path = assets/css/scss
+	url = https://github.com/man-059/Custom-Library-SCSS.git
